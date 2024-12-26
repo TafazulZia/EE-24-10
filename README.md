@@ -1,1 +1,1 @@
-# EE-24-10
+# Programing practical EE-24-10
